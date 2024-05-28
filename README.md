@@ -13,7 +13,7 @@ Created a table showing the percentage of population vaccinated and created a vi
 Explored the Nashville housing dataset<br/>
 I standardized the date format using the convert function<br/>
 Populated the property address using the isnull function,then updated the dataset<br/>
-Broke out the address  into address, city and state usinf the substring and the ccharindex fuunction<br/>
+Broke out the address  into address, city and state using the substring and the charindex fuunction<br/>
 Changed the Y and N into Yes and No using the case statement<br/>
 Removed duplicates and deleted unused columns.
 
